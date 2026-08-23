@@ -1,0 +1,15 @@
+bin/
+obj/
+release/
+.build-temp/
+.test-media/
+tests/**/bin/
+tests/**/obj/
+*.user
+*.suo
+__pycache__/
+*.pyc
+
+# Local user settings and diagnostic captures
+StreamClipStudio/
+analysis-*.png
